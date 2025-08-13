@@ -24,18 +24,21 @@ Comprehensive business intelligence project analyzing 2 years of pizza sales dat
 <h2>Key Performance Indicators (KPIs):</h2>
 
 <p align="center">
-<b>Total Revenue:</b> $817,860 | <b>Average Order Value:</b> $38.31 | <b>Total Orders:</b> 21,350
+<b>Total Revenue:</b> $817,860 
+<b>Average Order Value:</b> $38.31 
+<b>Total Orders:</b> 21,350
 <br/>
-<b>Total Pizzas Sold:</b> 49,574 | <b>Avg Pizzas Per Order:</b> 2.32
+<b>Total Pizzas Sold:</b> 49,574 
+<b>Avg Pizzas Per Order:</b> 2.32
 </p>
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
 <b>Main Dashboard Overview:</b> <br/>
-<img src="https://i.imgur.com/dashboard_main.png" height="80%" width="80%" alt="Pizza Sales Dashboard Main View"/>
+<b></b> <br/>
+<img width="1243" height="685" alt="Image" src="https://github.com/user-attachments/assets/4331903a-92d5-4649-9564-8d5e1ac8cc08" />
 <br />
-
 <h2>SQL Query Examples:</h2>
 
 ```sql
@@ -72,12 +75,3 @@ ORDER BY Total_Pizza_Sold DESC;
 - **Menu**: Focus inventory on Classic and Supreme categories (52% of total sales)
 - **Pricing**: Promote Large pizza upgrades to maximize revenue per transaction
 - **Analytics**: Implement real-time dashboard for continuous performance monitoring
-
-
-**Contact Information:**
-- **Email:** Businesstalibi@gmail.com
-- **LinkedIn:** [linkedin.com/in/fati-talibi](https://www.linkedin.com/in/fati-talibi)  
-- **Phone:** (309) 350-7172
-- **Location:** Rock Island, IL
-
-*Seeking Business Intelligence and Data Analytics opportunities to drive data-driven decision making!*

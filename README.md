@@ -35,38 +35,6 @@ Comprehensive business intelligence project analyzing 2 years of pizza sales dat
 <b>Main Dashboard Overview:</b> <br/>
 <img src="https://i.imgur.com/dashboard_main.png" height="80%" width="80%" alt="Pizza Sales Dashboard Main View"/>
 <br />
-<br />
-<b>KPI Summary Cards:</b>  <br/>
-<img src="https://i.imgur.com/kpi_cards.png" height="80%" width="80%" alt="Key Performance Indicators"/>
-<br />
-<br />
-<b>Daily Trend Analysis (Peak Days: Weekends):</b> <br/>
-<img src="https://i.imgur.com/daily_trends.png" height="80%" width="80%" alt="Daily Sales Trends"/>
-<br />
-<br />
-<b>Hourly Trend Analysis (Peak Hours: 12-1PM, 5-8PM):</b>  <br/>
-<img src="https://i.imgur.com/hourly_trends.png" height="80%" width="80%" alt="Hourly Sales Patterns"/>
-<br />
-<br />
-<b>Sales by Pizza Category (Classic: 26.91% of revenue):</b>  <br/>
-<img src="https://i.imgur.com/category_analysis.png" height="80%" width="80%" alt="Pizza Category Performance"/>
-<br />
-<br />
-<b>Sales by Pizza Size (Large: 45.89% of revenue):</b>  <br/>
-<img src="https://i.imgur.com/size_analysis.png" height="80%" width="80%" alt="Pizza Size Distribution"/>
-<br />
-<br />
-<b>Top 5 Best Sellers (Classic Deluxe Pizza leads):</b>  <br/>
-<img src="https://i.imgur.com/best_sellers.png" height="80%" width="80%" alt="Top Performing Pizzas"/>
-<br />
-<br />
-<b>Bottom 5 Worst Sellers (Optimization opportunities):</b>  <br/>
-<img src="https://i.imgur.com/worst_sellers.png" height="80%" width="80%" alt="Underperforming Products"/>
-<br />
-<br />
-<b>Interactive Filter Controls:</b>  <br/>
-<img src="https://i.imgur.com/filter_controls.png" height="80%" width="80%" alt="Dashboard Filters and Slicers"/>
-</p>
 
 <h2>SQL Query Examples:</h2>
 

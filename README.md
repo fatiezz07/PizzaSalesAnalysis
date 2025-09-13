@@ -1,7 +1,5 @@
 <h1>🍕 Pizza Sales Analysis - Business Intelligence Dashboard</h1>
 
-### [Live Dashboard](https://github.com/yourusername/pizza-sales-analysis)
-
 <h2>Description</h2>
 Comprehensive business intelligence project analyzing 2 years of pizza sales data ($817,860 total revenue) using SQL for data extraction and Excel for interactive dashboard creation. The project demonstrates end-to-end data analysis capabilities, from raw transactional data processing to actionable business insights and strategic recommendations for operational optimization.
 
